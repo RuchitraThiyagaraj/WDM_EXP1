@@ -53,8 +53,7 @@ rainy,75.0,80.0,false,yes
 8) Click on edit button which shows employee table on weka.
 
 ### OUTPUT:
-
-
+![image](https://github.com/user-attachments/assets/643ae555-1e35-4e53-9a6f-c41af3f73bf7)
 
 ### PREPROCESSING
 ### Procedure:
@@ -75,6 +74,8 @@ rainy,75.0,80.0,false,yes
 14) Click on the Edit button, it shows a new Weather Table on Weka.
 
 ### OUTPUT:
+![image](https://github.com/user-attachments/assets/bc0a7678-cf7a-45c6-bf3d-764e9964610a)
+
 
 ### 2) Remove -> Pre-Processing Technique:
 
