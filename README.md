@@ -53,7 +53,11 @@ rainy,75.0,80.0,false,yes
 8) Click on edit button which shows employee table on weka.
 
 ### OUTPUT:
+## Training Data Set -> Employee Table
+![image](https://github.com/user-attachments/assets/fab1aad3-1c8a-4cd5-af17-dd157673ee8a)
 
+## Training Data Set-> Weather Table
+![image](https://github.com/user-attachments/assets/28733928-da24-44b4-9e91-2f15c685b166)
 
 
 ### PREPROCESSING
