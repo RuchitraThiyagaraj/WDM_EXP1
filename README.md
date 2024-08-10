@@ -78,7 +78,8 @@ rainy,75.0,80.0,false,yes
 13) Save the file.
 14) Click on the Edit button, it shows a new Weather Table on Weka.
 
-### OUTPUT:
+## OUTPUT:
+
 Employee Table after adding new attribute ADDRESS:
 ![image](https://github.com/user-attachments/assets/242df376-cf3d-4904-b4d7-4f9c1c193dc6)
 
